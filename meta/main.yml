@@ -1,6 +1,6 @@
 galaxy_info:
   author: Muhammad Tabish Khanday
-  description: Ansible Role to configure Kubernetes Master Node
+  description: Ansible Role to configure Kubernetes Worker Node
   company: your company (optional)
 
   # If the issue tracker for your role is not on github, uncomment the
